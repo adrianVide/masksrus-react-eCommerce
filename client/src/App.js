@@ -1,8 +1,4 @@
 import React, { Component } from "react";
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap/dist/js/bootstrap.js';
-import $ from 'jquery';
-import Popper from 'popper.js';
 import "./App.css";
 import { Switch } from "react-router-dom";
 import AuthProvider from "./lib/Auth-provider";

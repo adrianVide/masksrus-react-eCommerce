@@ -24,10 +24,10 @@ function Home() {
     anyName();
   }, []);
 
-  const maskList = data.map((mask) => {
-    return mask;
-  });
-  console.log(maskList);
+  // const maskList = data.map((mask) => {
+  //   return mask;
+  // });
+  // console.log(maskList);
 
   return (
     <div>

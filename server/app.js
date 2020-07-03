@@ -19,6 +19,7 @@ var productsRouter= require('./routes/products.js')
 
 
 var app = express();
+// app.disable('etag');
 
 
 app.set('port', process.env.PORT || 3000);

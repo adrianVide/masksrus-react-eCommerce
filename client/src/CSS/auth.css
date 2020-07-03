@@ -1,0 +1,97 @@
+/*SIGNUP*/
+
+@media (max-width: 650px){
+
+
+.background-image-signup{
+
+    background: url('https://drive.google.com/uc?export=download&id=12QacgkK7qhaDEDmUzjVV2koysufcViMO')  no-repeat center center;
+    background-size: cover;
+    box-sizing: border-box;
+    height: 100vh;
+    position:relative;
+    opacity:0.9;
+  
+
+}
+
+
+.signup-h1 {
+   text-align: center;
+}
+
+.signup-p{
+    text-align: center;
+    font-weight: bold;
+}
+
+.linkToLogin-signup{
+    color:#1DCBE2;
+    text-align: center;
+    font-size:14px;
+    text-decoration: underline
+}
+
+
+
+/***********************************************/
+
+/*LOGIN*/
+@media (max-width: 650px){
+
+.background-image-login{
+
+    background: url('https://drive.google.com/uc?export=download&id=1pEFTFfxg7rnnoutR_AFkcAjezj5WhX45')  no-repeat center center;
+    background-size: cover;
+    box-sizing: border-box;
+    height: 100vh;
+    position:relative;
+    opacity:0.9;
+
+}
+ 
+.linkToLogin-login {
+   
+    color:#1DCBE2;
+    text-align: center;
+    font-size:14px;
+    text-decoration:underline
+ 
+
+    } 
+
+    .input-email-login {
+      
+        background-color:#1DCBE2;
+        
+    }
+    }
+}
+
+
+@media (min-width: 720px){
+
+.background-image-signup{
+
+    background: url('https://images.pexels.com/photos/3951355/pexels-photo-3951355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')  no-repeat center center;
+    background-size: cover;
+    box-sizing: border-box;
+    height: 100vh;
+    position:relative;
+    opacity:0.9;
+  
+
+}
+
+.background-image-login{
+
+    background: url('https://images.pexels.com/photos/3951367/pexels-photo-3951367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')  no-repeat center center;
+    background-size: cover;
+    box-sizing: border-box;
+    height: 100vh;
+    position:relative;
+    opacity:0.9;
+
+}
+
+}
